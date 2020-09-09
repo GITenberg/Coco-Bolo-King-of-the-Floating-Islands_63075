@@ -5,6 +5,9 @@ contributor:
     agent_name: Hopp, Otto
     gutenberg_agent_id: '52268'
     url: http://www.gutenberg.org/2009/agents/52268
+covers:
+- cover_type: archival
+  image_path: 63075-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamp, Sidford F. (Sidford Frederick)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '32001'
     url: http://www.gutenberg.org/2009/agents/32001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63075#Coco-Bolo-King-of-the-Floating-Islands
 gutenberg_issued: '2020-08-29'
 gutenberg_type: Text
 identifiers:
